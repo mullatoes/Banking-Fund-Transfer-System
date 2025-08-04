@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: 'mini-banking-app'
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/mini_banking_app
+    username: root
+    password: Admin@123
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
