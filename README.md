@@ -1,9 +1,10 @@
-Absolutely! Here's a clean, professional `README.md` tailored for your **Banking Fund Transfer System** project using DDD (Domain-Driven Design), Spring Boot, and JPA.
 
----
-
-```markdown
 # 💳 Banking Fund Transfer System
+
+![Java](https://img.shields.io/badge/Java-24+-blue)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2+-green)
+![JPA](https://img.shields.io/badge/JPA-Hibernate-yellow)
+![License](https://img.shields.io/badge/License-MIT-lightgrey
 
 A modern and extensible **Banking Fund Transfer System** built with **Spring Boot**, **JPA**, and **Domain-Driven Design (DDD)** principles. It supports secure account management, seamless fund transfers, and safeguards against race conditions in concurrent environments.
 
